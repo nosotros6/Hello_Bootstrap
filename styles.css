@@ -1,0 +1,16 @@
+.container{
+  /*background: #f5f5f5;*/
+  margin-bottom: 50px;
+}
+.container-fluid{
+  background: cadetblue;
+  margin-bottom: 50px;
+}
+
+.col-12{
+  border: 1px solid rgb(63, 60, 60);
+}
+
+.progress{
+  margin-bottom: 20px;
+}
